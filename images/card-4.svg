@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" shape-rendering="crispEdges">
+  <rect width="700" height="700" fill="#e9f2ff" />
+  <rect x="70" y="70" width="560" height="560" fill="#fff" />
+  <path d="M70 140H630M70 210H630M70 280H630M70 350H630M70 420H630M70 490H630M70 560H630M140 70V630M210 70V630M280 70V630M350 70V630M420 70V630M490 70V630M560 70V630" stroke="#c7d8ff" stroke-width="4" />
+  <rect x="115" y="118" width="170" height="115" fill="#ff595e" />
+  <rect x="315" y="118" width="270" height="45" fill="#1982c4" />
+  <rect x="315" y="188" width="210" height="45" fill="#1982c4" />
+  <rect x="115" y="278" width="470" height="80" fill="#ffca3a" />
+  <rect x="115" y="395" width="205" height="165" fill="#8ac926" />
+  <rect x="350" y="395" width="235" height="165" fill="#6a4c93" />
+  <rect x="105" y="602" width="490" height="12" fill="#000" />
+  <rect x="100" y="100" width="22" height="22" fill="#000" />
+  <rect x="578" y="578" width="22" height="22" fill="#000" />
+  <rect x="456" y="264" width="86" height="18" fill="#000" />
+  <rect x="456" y="296" width="54" height="18" fill="#000" />
+</svg>
