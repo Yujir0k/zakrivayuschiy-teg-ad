@@ -11,7 +11,7 @@
 }
 
 .content-section {
-  inline-size: var(--content-width);
+  inline-size: min(100%, var(--content-width));
 }
 
 .header {
@@ -281,13 +281,14 @@
   }
 }
 
-@media (width <= 375px) {
+@media (max-width: 376px) {
   .content-section {
     inline-size: 100%;
   }
 
   .header {
     margin-block: 100px;
+    padding-inline: 0;
   }
 
   .card__label {
